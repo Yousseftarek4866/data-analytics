@@ -1,0 +1,6 @@
+review_id,user_name,text_content,rating,source
+1,Youssef,The movie was absolutely amazing! 10/10,10,IMDb
+2,Ahmed,"Terrible experience, would not recommend.",2,IMDb
+3,Marwan,"It was okay, but a bit too long.",5,Letterboxd
+4,None,!!! ERROR !!! No content here.,0,IMDb
+5,Yasser,Loved the acting but hated the plot.,7,RottenTomatoes
